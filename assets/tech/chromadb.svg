@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="ChromaDB">
+  <title>ChromaDB</title>
+  <rect x="0.5" y="0.5" width="115" height="31" rx="15.5" fill="#161B22" stroke="#30363D"/>
+  <g transform="translate(12 8) scale(0.6666666666666666)" fill="#FF6F00" fill-rule="evenodd"><path d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zm0 3.2a5.8 5.8 0 1 1 0 11.6 5.8 5.8 0 0 1 0-11.6z"/></g>
+  <text x="36" y="16" dominant-baseline="central" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">ChromaDB</text>
+</svg>

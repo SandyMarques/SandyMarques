@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="32" viewBox="0 0 82 32" role="img" aria-label="Excel">
+  <title>Excel</title>
+  <rect x="0.5" y="0.5" width="81" height="31" rx="15.5" fill="#161B22" stroke="#30363D"/>
+  <g transform="translate(12 8) scale(0.6666666666666666)" fill="#21A366" fill-rule="evenodd"><path d="M3 3h18v18H3z M8 7l3 5-3 5h2.4l1.8-3.2L14 17h2.4l-3-5 3-5H14l-1.8 3.2L10.4 7z"/></g>
+  <text x="36" y="16" dominant-baseline="central" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Excel</text>
+</svg>
