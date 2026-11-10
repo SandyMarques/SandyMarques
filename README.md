@@ -26,7 +26,7 @@ Em projetos próprios, construo ferramentas com **IA generativa**: assistentes c
   <tr>
     <td width="33%" valign="top">
       <p><b>💼 Experiência</b></p>
-      <p>Analista Administrativo na Accenture Brasil desde 2020, em automação e processos.</p>
+      <p>Analista Administrativo na Accenture Brasil desde 2020.</p>
     </td>
     <td width="33%" valign="top">
       <p><b>🎓 Formação</b></p>
