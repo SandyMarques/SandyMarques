@@ -20,7 +20,7 @@
 
 Sou analista na **Accenture Brasil** desde **novembro de 2020**, com foco em **automação e melhoria de processos**. No dia a dia, transformo rotinas manuais em fluxos automatizados com Python e planilhas avançadas, uso IA na análise de documentos e trabalho com cumprimento de SLAs.
 
-Fora do expediente, construo ferramentas com **IA generativa**: assistentes com RAG, automação de planilhas em linguagem natural e bots.
+Em projetos próprios, construo ferramentas com **IA generativa**: assistentes com RAG, automação de planilhas em linguagem natural e bots.
 
 <table>
   <tr>
@@ -44,26 +44,33 @@ Fora do expediente, construo ferramentas com **IA generativa**: assistentes com 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/SandyMarques/Assistente-IA-com-RAG"><img src="assets/projects/assistente-rag.jpg" width="100%" alt="Interface do Assistente IA com RAG, com um documento de exemplo indexado"></a>
       <h3>🧠 <a href="https://github.com/SandyMarques/Assistente-IA-com-RAG">Assistente IA com RAG</a></h3>
       <p>Chat que responde com base nos seus documentos (PDF, TXT, CSV...) e cita a fonte e a página de cada trecho.</p>
       <p><code>FastAPI</code> <code>LangChain</code> <code>ChromaDB</code> <code>Docker</code></p>
+      <p><sub>Tela real do app, com um documento de exemplo.</sub></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/SandyMarques/Automatizador-de-Planilhas-com-IA"><img src="assets/projects/automatizador-planilhas.jpg" width="100%" alt="Interface do Automatizador de Planilhas com a base de demonstração carregada"></a>
       <h3>📊 <a href="https://github.com/SandyMarques/Automatizador-de-Planilhas-com-IA">Automatizador de Planilhas com IA</a></h3>
       <p>Transforma pedidos em português em operações em planilhas Excel/CSV, com sandbox de execução e autocorreção.</p>
       <p><code>Streamlit</code> <code>Pandas</code> <code>DeepSeek</code></p>
+      <p><sub>Tela real do app, com a base de demonstração.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/SandyMarques/talyson-projects">Portfólio</a></h3>
-      <p>Site pessoal com projetos, blog e estudo de caso, publicado no GitHub Pages.</p>
+      <a href="https://sandymarques.github.io/talyson-projects/"><img src="assets/projects/portfolio.jpg" width="100%" alt="Página inicial do portfólio de Talyson Marques"></a>
+      <h3>🌐 <a href="https://sandymarques.github.io/talyson-projects/">Portfólio</a></h3>
+      <p>Site pessoal com projetos, blog e estudo de caso, publicado no GitHub Pages. <a href="https://github.com/SandyMarques/talyson-projects">Ver o código</a>.</p>
       <p><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://sandymarques.github.io/talyson-projects/caso-tapioca-delegusty.html"><img src="assets/projects/tapioca-delegusty.jpg" width="100%" alt="Página do estudo de caso Tapioca Delegusty"></a>
       <h3>🥞 <a href="https://sandymarques.github.io/talyson-projects/caso-tapioca-delegusty.html">Estudo de caso: Tapioca Delegusty</a></h3>
-      <p>Sistema de pedidos, cozinha e entrega para um negócio real. O repositório é privado; o estudo de caso é público.</p>
-      <p><code>Web</code> <code>Supabase</code></p>
+      <p>Sistema de pedidos para uma tapiocaria: cardápio digital, pagamento por PIX, painel da loja, tela da cozinha, app do motoboy e atendente virtual no WhatsApp.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>PWA</code></p>
+      <p><sub>Repositório privado; o estudo de caso é público. Telas com dados fictícios.</sub></p>
     </td>
   </tr>
 </table>
@@ -101,6 +108,15 @@ Fora do expediente, construo ferramentas com **IA generativa**: assistentes com 
   <img src="assets/tech/vercel.svg" height="32" alt="Vercel">
 </p>
 
+## Formação e cursos
+
+| Instituição | Formação |
+| :--- | :--- |
+| **SENAC-SP** | Graduação Tecnológica em Redes de Computadores |
+| **SENAC-SP** | Certificações intermediárias do curso: Analista de Segurança de Redes de Computadores · Analista em Gestão e Planejamento de Redes de Segurança · Operador de Sistema de Computador |
+| **SENAI-SP** | Excel Avançado e Análise de Dados (40h) |
+| **SENAI-SP** | Montagem e Manutenção de Microcomputadores (80h) |
+
 ## Do blog
 
 | Artigo | Tema |
@@ -114,6 +130,6 @@ Fora do expediente, construo ferramentas com **IA generativa**: assistentes com 
 ---
 
 <p align="center">
-  <b>Aberto a oportunidades em automação, dados, IA aplicada e infraestrutura.</b><br><br>
+  <b>Disponível para oportunidades em automação de processos e tecnologia.</b><br><br>
   <sub>Vamos conversar? <a href="https://www.linkedin.com/in/talysonmarques/">LinkedIn</a> · <a href="mailto:talyson14marques@hotmail.com">talyson14marques@hotmail.com</a></sub>
 </p>
